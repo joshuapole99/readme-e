@@ -16,6 +16,8 @@ Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie ben
 ## Software Anaylse 
 Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
 
+unity omdat ik dat graag gebruik.
+
 ## Leerdoelen 
 Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
 - Het Flood-Fill algoritme snappen en toepassen
