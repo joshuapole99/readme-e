@@ -18,24 +18,23 @@ Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie ben
 Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
 
 unity omdat ik dat graag gebruik.
+en ik weet hoe ik een ui moet maken in unity
 
 ## Leerdoelen 
 Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
-- Het Flood-Fill algoritme snappen en toepassen
-- Het ontwikkelen van een generieke FSM.
-- etc. etc.
+- het inventory system begrijpen.
+-  
 
 ## Planning 
 Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
-| --- | --- | --- | --- | --- | --- |
+| onderzoek | onderzoek | een beginnetje maken |  | --- | --- |
 |week 1 |
 |week 2 |
 
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
-- [The Guide To Game Design](link)
-- [Alleatoric Algorithms](link)
-- [Flood-Fill Wikipedia](link)
+https://www.youtube.com/watch?v=OG7vHstkZqM
+https://www.youtube.com/watch?v=DLAIYSMYy2g&t=333s
