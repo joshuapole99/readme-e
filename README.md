@@ -3,8 +3,9 @@
 
 Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan? 
 
-ik heb onderzocht hoe ik een map kan beschadigen .
-ik heb oude scripts van mijn angry birds project gebruikt.
+ik heb onderzocht hoe je een inventory maakt via youtube tutorials
+eerst heb ik aan de UI gewerkt en daarna de code.
+
 
 ## Features
 Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
